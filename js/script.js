@@ -12,6 +12,7 @@ function submit() {
   // input
   const base = parseInt(document.getElementById("base-value").value)
   const height = parseInt(document.getElementById("height-value").value)
+  
 
   // process
   const area = (base * height) / 2
